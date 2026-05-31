@@ -1,0 +1,25 @@
+{
+	// Database type: 'sqlite' or 'mysql' / 数据库类型：'sqlite' 或 'mysql'
+	"databaseType": "sqlite",
+	// SQLite database file path (relative to config folder) / SQLite 数据库文件路径
+	"sqliteFile": "ranked.db",
+	// MySQL configuration / MySQL 配置
+	"mysql": {
+		// MySQL host address / MySQL 主机地址
+		"host": "localhost",
+		// MySQL port / MySQL 端口
+		"port": 3306,
+		// MySQL database name / MySQL 数据库名
+		"database": "cobblemon_ranked",
+		// MySQL username / MySQL 用户名
+		"username": "root",
+		// MySQL password / MySQL 密码
+		"password": "",
+		// MySQL connection pool size / MySQL 连接池大小
+		"poolSize": 10,
+		// MySQL connection timeout (ms) / MySQL 连接超时时间（毫秒）
+		"connectionTimeout": 5000,
+		// Additional MySQL connection parameters / MySQL 额外连接参数
+		"parameters": "useSSL=false&serverTimezone=UTC&characterEncoding=utf8"
+	}
+}

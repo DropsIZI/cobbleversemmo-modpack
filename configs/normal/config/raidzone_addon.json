@@ -1,0 +1,26 @@
+[
+  {
+    "name": "tier5",
+    "tier": "TIER_FIVE",
+    "initialIntervalTicks": 24000,
+    "ticksUntilSpawn": 22102,
+    "crystalAgeTicks": 0,
+    "spawnPos": {
+      "x": 7,
+      "y": 67,
+      "z": -7
+    }
+  },
+  {
+    "name": "tier6",
+    "tier": "TIER_SIX",
+    "initialIntervalTicks": 24000,
+    "ticksUntilSpawn": 22137,
+    "crystalAgeTicks": 0,
+    "spawnPos": {
+      "x": 5,
+      "y": 67,
+      "z": -7
+    }
+  }
+]

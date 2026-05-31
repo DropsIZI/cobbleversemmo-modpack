@@ -1,0 +1,745 @@
+{
+  "season": {
+    "id": "season_one",
+    "displayName": "Season One: Trailblaze",
+    "startEpochSeconds": 1778095618,
+    "durationDays": 90
+  },
+  "rewards": {
+    "starter_item": {
+      "type": "item",
+      "itemId": "cobblemon:rare_candy",
+      "itemCount": 1,
+      "pokemonLevel": 0
+    },
+    "trainer_tokens": {
+      "type": "command",
+      "itemCount": 0,
+      "command": "give %player% minecraft:emerald 3",
+      "pokemonLevel": 0,
+      "displayLabel": "Trainer Tokens"
+    },
+    "starter_pokemon": {
+      "type": "pokemon",
+      "itemCount": 0,
+      "command": "/givepokemon %player% pikachu",
+      "pokemonSpecies": "bulbasaur",
+      "pokemonLevel": 5,
+      "displayLabel": "Bulbasaur Lvl 5"
+    }
+  },
+  "levels": [
+    {
+      "level": 1,
+      "requiredXp": 150,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 2,
+      "requiredXp": 175,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 3,
+      "requiredXp": 200,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 4,
+      "requiredXp": 225,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 5,
+      "requiredXp": 250,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 6,
+      "requiredXp": 275,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 7,
+      "requiredXp": 300,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 8,
+      "requiredXp": 325,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 9,
+      "requiredXp": 350,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 10,
+      "requiredXp": 375,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 11,
+      "requiredXp": 400,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 12,
+      "requiredXp": 425,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 13,
+      "requiredXp": 450,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 14,
+      "requiredXp": 475,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 15,
+      "requiredXp": 500,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 16,
+      "requiredXp": 525,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 17,
+      "requiredXp": 550,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 18,
+      "requiredXp": 575,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 19,
+      "requiredXp": 600,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 20,
+      "requiredXp": 625,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 21,
+      "requiredXp": 650,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 22,
+      "requiredXp": 675,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 23,
+      "requiredXp": 700,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 24,
+      "requiredXp": 725,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 25,
+      "requiredXp": 750,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 26,
+      "requiredXp": 775,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 27,
+      "requiredXp": 800,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 28,
+      "requiredXp": 825,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 29,
+      "requiredXp": 850,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 30,
+      "requiredXp": 875,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 31,
+      "requiredXp": 900,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 32,
+      "requiredXp": 925,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 33,
+      "requiredXp": 950,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 34,
+      "requiredXp": 975,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 35,
+      "requiredXp": 1000,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 36,
+      "requiredXp": 1025,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 37,
+      "requiredXp": 1050,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 38,
+      "requiredXp": 1075,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 39,
+      "requiredXp": 1100,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 40,
+      "requiredXp": 1125,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 41,
+      "requiredXp": 1150,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 42,
+      "requiredXp": 1175,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 43,
+      "requiredXp": 1200,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 44,
+      "requiredXp": 1225,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 45,
+      "requiredXp": 1250,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 46,
+      "requiredXp": 1275,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 47,
+      "requiredXp": 1300,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 48,
+      "requiredXp": 1325,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 49,
+      "requiredXp": 1350,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 50,
+      "requiredXp": 1375,
+      "rewardIds": [
+        "trainer_tokens",
+        "starter_pokemon"
+      ]
+    },
+    {
+      "level": 51,
+      "requiredXp": 1400,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 52,
+      "requiredXp": 1425,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 53,
+      "requiredXp": 1450,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 54,
+      "requiredXp": 1475,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 55,
+      "requiredXp": 1500,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 56,
+      "requiredXp": 1525,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 57,
+      "requiredXp": 1550,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 58,
+      "requiredXp": 1575,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 59,
+      "requiredXp": 1600,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 60,
+      "requiredXp": 1625,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 61,
+      "requiredXp": 1650,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 62,
+      "requiredXp": 1675,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 63,
+      "requiredXp": 1700,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 64,
+      "requiredXp": 1725,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 65,
+      "requiredXp": 1750,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 66,
+      "requiredXp": 1775,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 67,
+      "requiredXp": 1800,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 68,
+      "requiredXp": 1825,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 69,
+      "requiredXp": 1850,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 70,
+      "requiredXp": 1875,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 71,
+      "requiredXp": 1900,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 72,
+      "requiredXp": 1925,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 73,
+      "requiredXp": 1950,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 74,
+      "requiredXp": 1975,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 75,
+      "requiredXp": 2000,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 76,
+      "requiredXp": 2025,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 77,
+      "requiredXp": 2050,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 78,
+      "requiredXp": 2075,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 79,
+      "requiredXp": 2100,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 80,
+      "requiredXp": 2125,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 81,
+      "requiredXp": 2150,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 82,
+      "requiredXp": 2175,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 83,
+      "requiredXp": 2200,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 84,
+      "requiredXp": 2225,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 85,
+      "requiredXp": 2250,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 86,
+      "requiredXp": 2275,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 87,
+      "requiredXp": 2300,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 88,
+      "requiredXp": 2325,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 89,
+      "requiredXp": 2350,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 90,
+      "requiredXp": 2375,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 91,
+      "requiredXp": 2400,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 92,
+      "requiredXp": 2425,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 93,
+      "requiredXp": 2450,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 94,
+      "requiredXp": 2475,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 95,
+      "requiredXp": 2500,
+      "rewardIds": [
+        "trainer_tokens"
+      ]
+    },
+    {
+      "level": 96,
+      "requiredXp": 2525,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 97,
+      "requiredXp": 2550,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 98,
+      "requiredXp": 2575,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 99,
+      "requiredXp": 2600,
+      "rewardIds": [
+        "starter_item"
+      ]
+    },
+    {
+      "level": 100,
+      "requiredXp": 2625,
+      "rewardIds": [
+        "trainer_tokens",
+        "starter_pokemon"
+      ]
+    }
+  ],
+  "xpSources": {
+    "catchXp": 35,
+    "defeatXp": 55,
+    "evolveXp": 90,
+    "trainerXp": 110
+  },
+  "levelScaling": {
+    "useUniformXpPerLevel": true,
+    "xpPerLevel": 500
+  }
+}

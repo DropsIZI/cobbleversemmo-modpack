@@ -1,0 +1,129 @@
+{
+  general: {
+    // Add to Vanilla's Options
+    // Whether to add a button to vanilla game's options that opens WTHIT config screen
+    // Default value: [true]
+    vanillaOptions: true,
+    // Mostrar tooltip
+    // Muestra el tooltip con la información
+    // Default value: [true]
+    displayTooltip: true,
+    // Detalles al agacharse
+    // El texto adicional está oculto a menos que estés agachado
+    // Default value: [false]
+    shiftForDetails: false,
+    // Hide Sneak Text
+    // Hide "Sneak for details" text when sneaky details is enabled
+    // Default value: [false]
+    hideShiftText: false,
+    // Modo de visualización
+    // Comportamiento de visualización del tooltip
+    // Alternar: El atajo para mostrar lo activa y desactiva
+    // Mantener: El atajo para mostrar debe permanecer mantenido
+    // Default value: [TOGGLE]
+    // Available values: [HOLD_KEY, TOGGLE]
+    displayMode: "TOGGLE",
+    // Ocultar de la lista de jugadores
+    // Esconde el tooltip mientras la lista de jugadores esté abierta
+    // Default value: [true]
+    hideFromPlayerList: true,
+    // Ocultar al depurar
+    // Esconde el tooltip mientras el menú de depuración esté abierto
+    // Default value: [true]
+    hideFromDebug: true,
+    // Activar Texto a Voz
+    // Lee los nombres de bloque y entidad usando el procesador TTS del sistema
+    // Default value: [false]
+    enableTextToSpeech: false,
+    // Tasa límite
+    // Cúantos milisegundos deben pasar entre cada petición al servidor
+    // El valor debe ser por lo menos 250ms
+    // Default value: [250]
+    rateLimit: 250
+  },
+  overlay: {
+    position: {
+      align: {
+        // Default value: [CENTER]
+        // Available values: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // Default value: [TOP]
+        // Available values: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      anchor: {
+        // Default value: [CENTER]
+        // Available values: [LEFT, CENTER, RIGHT]
+        x: "CENTER",
+        // Default value: [TOP]
+        // Available values: [TOP, MIDDLE, BOTTOM]
+        y: "TOP"
+      },
+      // Offset
+      // Default value: [0]
+      x: 0,
+      // Default value: [0]
+      y: 0,
+      // Superposición de barras de jefe
+      // Si se pone falso, el tooltip se moverá abajo si hay barras de jefe visibles
+      // Sólo afecta a la alineación centro-arriba
+      // Default value: [false]
+      bossBarsOverlap: false
+    },
+    color: {
+      // Transparencia de fondo
+      // Default value: [204]
+      backgroundAlpha: 204,
+      // Custom Themes
+      themes: [],
+      // Tema
+      // Default value: [waila:vanilla]
+      activeTheme: "waila:vanilla"
+    },
+    // Escala
+    // Cuán grande es el tooltip
+    // 1.0 es el predeterminado
+    // Default value: [1.0]
+    scale: 1.0,
+    // Overlay FPS
+    // Lowering the overlay FPS might improve the overall game FPS
+    // Set to 0 to unlock
+    // Default value: [30]
+    fps: 30
+  },
+  // Text formatters
+  formatter: {
+    // Default value: [§9§o%s]
+    modName: "§9§o%s",
+    // Default value: [§f%s]
+    blockName: "§f%s",
+    // Default value: [§f%s]
+    fluidName: "§f%s",
+    // Default value: [§f%s]
+    entityName: "§f%s",
+    // Default value: [§8%s]
+    registryName: "§8%s",
+    // 
+    styles: {}
+  },
+  keyBinds: {
+    // Abrir configuración
+    // Default value: [key.keyboard.unknown]
+    openConfig: "key.keyboard.unknown",
+    // Mostrar overlay
+    // Default value: [key.keyboard.unknown]
+    showOverlay: "key.keyboard.unknown",
+    // Alternar líquidos
+    // Default value: [key.keyboard.unknown]
+    toggleLiquid: "key.keyboard.unknown",
+    // Ver uso de receta
+    // Default value: [key.keyboard.unknown]
+    showRecipeInput: "key.keyboard.unknown",
+    // Ver receta
+    // Default value: [key.keyboard.unknown]
+    showRecipeOutput: "key.keyboard.unknown"
+  },
+  // Internal value, DO NOT TOUCH!
+  // Default value: [0]
+  configVersion: 1
+}

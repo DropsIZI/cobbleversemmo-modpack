@@ -1,0 +1,133 @@
+[
+	{
+		"loot_table": "",
+		"entries": [
+			{
+				"crate_variant": "common",
+				"tracked_per_player": true,
+				"lock_mode": "not_locked",
+				"inventory_deletion_mode": "never",
+				"replenish_time_scale": "never",
+				"weight": 5
+			},
+			{
+				"crate_variant": "epic",
+				"tracked_per_player": true,
+				"lock_mode": "not_locked",
+				"inventory_deletion_mode": "never",
+				"replenish_time_scale": "never",
+				"weight": 1
+			}
+		]
+	},
+	{
+		"loot_table": "minecraft:chests/bastion_bridge",
+		"entries": [{
+			"crate_variant": "blaze",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/bastion_hoglin_stable",
+		"entries": [{
+			"crate_variant": "blaze",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/bastion_other",
+		"entries": [{
+			"crate_variant": "blaze",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/bastion_treasure",
+		"entries": [{
+			"crate_variant": "blaze",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/buried_treasure",
+		"entries": [{
+			"crate_variant": "rare",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/end_city_treasure",
+		"entries": [{
+			"crate_variant": "epic",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/simple_dungeon",
+		"entries": [{
+			"crate_variant": "uncommon",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/stronghold_corridor",
+		"entries": [{
+			"crate_variant": "uncommon",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/underwater_ruin_big",
+		"entries": [{
+			"crate_variant": "rare",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/underwater_ruin_small",
+		"entries": [{
+			"crate_variant": "rare",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	},
+	{
+		"loot_table": "minecraft:chests/woodland_mansion",
+		"entries": [{
+			"crate_variant": "ghost",
+			"tracked_per_player": true,
+			"lock_mode": "not_locked",
+			"inventory_deletion_mode": "never",
+			"replenish_time_scale": "never"
+		}]
+	}
+]

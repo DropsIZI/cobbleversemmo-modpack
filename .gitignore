@@ -1,0 +1,9 @@
+# Archivos grandes — se suben a GitHub Releases, no al repo
+*.jar
+*.zip
+*.mrpack
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini

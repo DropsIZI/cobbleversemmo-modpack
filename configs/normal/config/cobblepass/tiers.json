@@ -1,0 +1,1232 @@
+[
+  {
+    "level": 1,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 1",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 1",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 2,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 2",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 2",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 3,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 3",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 3",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 4,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 4",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 4",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 5,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 5",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 5",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 6,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 6",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 6",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 7,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 7",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 7",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 8,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 8",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 8",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 9,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 9",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 9",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 10,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 10",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 10",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 11,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 11",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 11",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 12,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 12",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 12",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 13,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 13",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 13",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 14,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 14",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 14",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 15,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 15",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 15",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 16,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 16",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 16",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 17,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 17",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 17",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 18,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 18",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 18",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 19,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 19",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 19",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 20,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 20",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 20",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 21,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 21",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 21",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 22,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 22",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 22",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 23,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 23",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 23",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 24,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 24",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 24",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 25,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 25",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 25",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 26,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 26",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 26",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 27,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 27",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 27",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 28,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 28",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 28",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 29,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 29",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 29",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  },
+  {
+    "level": 30,
+    "xp_required": 0,
+    "free_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:diamond 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:diamond",
+      "display_name": "§b1 Diamond",
+      "lore": [
+        "§7Free reward for level 30",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    },
+    "premium_reward": {
+      "type": "COMMAND",
+      "commands": [
+        "give %player% minecraft:emerald 1"
+      ],
+      "item": "minecraft:diamond",
+      "item_count": 1,
+      "permission": "",
+      "group": "",
+      "display_item": "minecraft:emerald",
+      "display_name": "§61 Emerald",
+      "lore": [
+        "§7Premium reward for level 30",
+        "§dPREMIUM",
+        "",
+        "§aClick to claim!"
+      ],
+      "custom_model_data": 0
+    }
+  }
+]

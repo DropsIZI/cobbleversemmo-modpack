@@ -1,0 +1,5 @@
+{
+  "requireOwnership": false,
+  "keepSyncedOnRespawn": false,
+  "requireItem": true
+}

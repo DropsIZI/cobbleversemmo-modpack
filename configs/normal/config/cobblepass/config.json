@@ -1,0 +1,19 @@
+{
+  "season_name": "Season 1",
+  "season_end_date": "2025-12-31",
+  "xp_per_level": 1000,
+  "premium_permission": "cobblepass.premium",
+  "gui_title": "§6§l✦ §eBattle Pass §6§l✦",
+  "premium_buy_command": "",
+  "broadcast_level_up": false,
+  "pokemon_xp": {
+    "enabled": true,
+    "catch_pokemon": 100,
+    "defeat_wild_pokemon": 50,
+    "legendary_multiplier": 3.0,
+    "defeat_trainer": 200,
+    "evolve_pokemon": 75,
+    "hatch_egg": 150,
+    "trade_pokemon": 80
+  }
+}

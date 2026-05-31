@@ -1,0 +1,88 @@
+{
+  "entries": [
+    {
+      "id": "mob_alpha",
+      "displayName": "Ranger Alpha",
+      "party": [
+        {
+          "species": "pikachu",
+          "level": 15,
+          "ability": "static",
+          "nature": "timid",
+          "heldItem": "minecraft:yellow_wool",
+          "moves": [
+            "thundershock",
+            "quickattack",
+            "tailwhip",
+            "growl"
+          ]
+        },
+        {
+          "species": "pidgey",
+          "level": 14,
+          "nature": "jolly",
+          "moves": [
+            "tackle",
+            "gust",
+            "sandattack"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mob_beta",
+      "displayName": "Ranger Beta",
+      "party": [
+        {
+          "species": "oddish",
+          "level": 15,
+          "nature": "modest",
+          "heldItem": "minecraft:lime_dye",
+          "moves": [
+            "absorb",
+            "acid",
+            "growth",
+            "poisonpowder"
+          ]
+        },
+        {
+          "species": "bellsprout",
+          "level": 14,
+          "nature": "careful",
+          "moves": [
+            "vinewhip",
+            "growth",
+            "wrap"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mob_gamma",
+      "displayName": "Ranger Gamma",
+      "party": [
+        {
+          "species": "sandshrew",
+          "level": 16,
+          "nature": "adamant",
+          "heldItem": "minecraft:sand",
+          "moves": [
+            "scratch",
+            "defensecurl",
+            "rollout"
+          ]
+        },
+        {
+          "species": "geodude",
+          "level": 15,
+          "nature": "impish",
+          "moves": [
+            "tackle",
+            "rockthrow",
+            "defensecurl"
+          ]
+        }
+      ]
+    }
+  ]
+}

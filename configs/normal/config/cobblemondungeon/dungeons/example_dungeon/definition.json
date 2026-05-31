@@ -1,0 +1,205 @@
+{
+  "id": "example_dungeon",
+  "world": "minecraft:overworld",
+  "entry": {
+    "x": 0.5,
+    "y": 70.0,
+    "z": 0.5,
+    "yaw": 0.0,
+    "pitch": 0.0
+  },
+  "exit": {
+    "x": 0.5,
+    "y": 70.0,
+    "z": -4.5,
+    "yaw": 180.0,
+    "pitch": 0.0
+  },
+  "healCount": 1,
+  "joinCooldownSeconds": 0,
+  "clearRewardRollCount": 3,
+  "clearRewards": [
+    {
+      "itemId": "minecraft:diamond",
+      "count": 3,
+      "weight": 1
+    },
+    {
+      "itemId": "minecraft:gold_ingot",
+      "count": 8,
+      "weight": 5
+    },
+    {
+      "itemId": "minecraft:emerald",
+      "count": 5,
+      "weight": 3
+    }
+  ],
+  "joinConditions": [],
+  "areas": [
+    {
+      "id": "area_1",
+      "type": "EXPLORE",
+      "bounds": {
+        "minX": -12.0,
+        "minY": 68.0,
+        "minZ": -2.0,
+        "maxX": 12.0,
+        "maxY": 76.0,
+        "maxZ": 18.0
+      },
+      "spawn": {
+        "x": 0.5,
+        "y": 70.0,
+        "z": 0.5,
+        "yaw": 0.0,
+        "pitch": 0.0
+      },
+      "exploreSlots": [
+        {
+          "id": "area_1_slot_1",
+          "displayName": "Scout A",
+          "npcClass": "cobblemon:standard",
+          "texture": "cobblemondungeon:textures/npc/example_trainer_child.png",
+          "trigger": "VISION",
+          "position": {
+            "x": 4.5,
+            "y": 70.0,
+            "z": 6.5,
+            "yaw": 180.0,
+            "pitch": 0.0
+          },
+          "visionRange": 6.0,
+          "visionAngle": 90.0,
+          "visionVisible": true,
+          "rotationIntervalTicks": 40,
+          "rotationDirections": [
+            "NORTH",
+            "WEST",
+            "SOUTH",
+            "EAST"
+          ],
+          "rotationYaws": [],
+          "skill": 3
+        },
+        {
+          "id": "area_1_slot_2",
+          "displayName": "Scout B",
+          "npcClass": "cobblemon:standard",
+          "texture": "cobblemondungeon:textures/npc/example_trainer_child.png",
+          "trigger": "VISION",
+          "position": {
+            "x": -5.5,
+            "y": 70.0,
+            "z": 8.5,
+            "yaw": 0.0,
+            "pitch": 0.0
+          },
+          "visionRange": 6.0,
+          "visionAngle": 75.0,
+          "visionVisible": true,
+          "rotationIntervalTicks": 0,
+          "rotationDirections": [],
+          "rotationYaws": [],
+          "skill": 3
+        },
+        {
+          "id": "area_1_slot_3",
+          "displayName": "Scout C",
+          "npcClass": "cobblemon:standard",
+          "texture": "cobblemondungeon:textures/npc/example_trainer_child.png",
+          "trigger": "VISION",
+          "position": {
+            "x": 0.5,
+            "y": 70.0,
+            "z": 14.5,
+            "yaw": 180.0,
+            "pitch": 0.0
+          },
+          "visionRange": 7.0,
+          "visionAngle": 80.0,
+          "visionVisible": true,
+          "facing": "NORTH",
+          "rotationIntervalTicks": 0,
+          "rotationDirections": [],
+          "rotationYaws": [],
+          "skill": 3
+        }
+      ]
+    },
+    {
+      "id": "boss_area",
+      "type": "BOSS",
+      "bounds": {
+        "minX": -8.0,
+        "minY": 68.0,
+        "minZ": 19.0,
+        "maxX": 8.0,
+        "maxY": 76.0,
+        "maxZ": 30.0
+      },
+      "spawn": {
+        "x": 0.5,
+        "y": 70.0,
+        "z": 21.5,
+        "yaw": 180.0,
+        "pitch": 0.0
+      },
+      "exploreSlots": []
+    }
+  ],
+  "gates": [
+    {
+      "id": "gate_to_boss",
+      "fromAreaId": "area_1",
+      "toAreaId": "boss_area",
+      "triggerArea": {
+        "minX": -2.0,
+        "minY": 68.0,
+        "minZ": 18.5,
+        "maxX": 2.0,
+        "maxY": 75.0,
+        "maxZ": 19.5
+      },
+      "conditions": [
+        {
+          "type": "DEFEAT_ROLE",
+          "role": "KEY"
+        }
+      ]
+    }
+  ],
+  "mobTrainerPool": [],
+  "minibossTrainerPool": [],
+  "bossTrainerPool": [],
+  "trainers": [
+    {
+      "id": "boss_1",
+      "displayName": "Dungeon Boss",
+      "npcClass": "cobblemon:standard",
+      "texture": "cobblemondungeon:textures/npc/example_trainer_child.png",
+      "areaId": "boss_area",
+      "role": "BOSS",
+      "trigger": "INTERACT",
+      "position": {
+        "x": 0.5,
+        "y": 70.0,
+        "z": 24.5,
+        "yaw": 180.0,
+        "pitch": 0.0
+      },
+      "visionRange": 6.0,
+      "visionAngle": 75.0,
+      "visionVisible": false,
+      "rotationIntervalTicks": 0,
+      "rotationDirections": [],
+      "rotationYaws": [],
+      "skill": 4,
+      "grantedFlags": [],
+      "team": []
+    }
+  ],
+  "joinNpc": {
+    "displayName": "サンプルダンジョン受付"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "entries": [
+    {
+      "id": "boss_elite",
+      "displayName": "Dungeon Boss",
+      "party": [
+        {
+          "species": "charmeleon",
+          "level": 20,
+          "ability": "blaze",
+          "nature": "modest",
+          "heldItem": "minecraft:charcoal",
+          "moves": [
+            "ember",
+            "dragonbreath",
+            "smokescreen",
+            "metalclaw"
+          ],
+          "ivs": {
+            "hp": 31,
+            "attack": 31,
+            "defence": 31,
+            "specialAttack": 31,
+            "specialDefence": 31,
+            "speed": 31
+          },
+          "evs": {
+            "hp": 4,
+            "specialAttack": 252,
+            "speed": 252
+          }
+        },
+        {
+          "species": "wartortle",
+          "level": 20,
+          "nature": "bold",
+          "heldItem": "minecraft:lapis_lazuli",
+          "moves": [
+            "watergun",
+            "bite",
+            "withdraw",
+            "rapidspin"
+          ]
+        },
+        {
+          "species": "ivysaur",
+          "level": 20,
+          "nature": "calm",
+          "heldItem": "minecraft:green_dye",
+          "moves": [
+            "razorleaf",
+            "sleeppowder",
+            "poisonpowder",
+            "takedown"
+          ]
+        }
+      ]
+    }
+  ]
+}

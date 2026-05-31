@@ -1,0 +1,73 @@
+[
+  {
+    "name": "default",
+    "entries": [
+      {
+        "state": "{Name:\"lumymon:dragon_ore\"}",
+        "name": "Dragon Ore",
+        "color": "#ffffff",
+        "order": 1,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"lumymon:electron_ore\"}",
+        "name": "Electron Ore",
+        "color": "#ffffff",
+        "order": 2,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:cobweb\"}",
+        "name": "Telaraña",
+        "color": "#ff0000",
+        "order": 3,
+        "isDefault": true,
+        "active": false
+      },
+      {
+        "state": "{Name:\"lumymon:rock_ore\"}",
+        "name": "Mena de Roca",
+        "color": "#ffffff",
+        "order": 4,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"lumymon:steel_ore\"}",
+        "name": "Mena de Acero",
+        "color": "#ffffff",
+        "order": 5,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"lumymon:ice_ore\"}",
+        "name": "Mena de Hielo",
+        "color": "#ffffff",
+        "order": 6,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:gold_ore\"}",
+        "name": "Mena de oro",
+        "color": "#00ff00",
+        "order": 7,
+        "isDefault": true,
+        "active": true
+      },
+      {
+        "state": "{Name:\"minecraft:nether_gold_ore\"}",
+        "name": "Mena de oro del Nether",
+        "color": "#00ff00",
+        "order": 8,
+        "isDefault": true,
+        "active": true
+      }
+    ],
+    "order": 1,
+    "active": true
+  }
+]
