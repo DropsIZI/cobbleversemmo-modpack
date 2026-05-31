@@ -123,7 +123,7 @@
     },
     {
       "path": "mods/Carved Wood-fabric-1.21.1-1.9.5.jar",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Carved Wood-fabric-1.21.1-1.9.5.jar",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Carved.Wood-fabric-1.21.1-1.9.5.jar",
       "sha256": "30b47cc230f1b965e6eefd9c166bfdf899a117f7688e71e970150cf2ca20e465",
       "size": 2606518
     },
@@ -711,7 +711,7 @@
     },
     {
       "path": "mods/Only Bottle Caps-1.3.0.jar",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Only Bottle Caps-1.3.0.jar",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Only.Bottle.Caps-1.3.0.jar",
       "sha256": "f18d5ddfaa0a77d0ef68b9db470a41095522878e25b1cc2a5282e747c784f09d",
       "size": 250451
     },
@@ -1053,19 +1053,19 @@
     },
     {
       "path": "datapacks/ATM x MSD [v3.5.0].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/ATM x MSD [v3.5.0].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/ATM.x.MSD.v3.5.0.zip",
       "sha256": "10e6f9c6bc0048e9504cec8b436b09d5ad4afd923a08e834b8deb6004caaa474",
       "size": 6018105
     },
     {
       "path": "datapacks/COBBLEVERSE - No Ender Dragon.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE - No Ender Dragon.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE.-.No.Ender.Dragon.zip",
       "sha256": "f5cdae688e55951f36f22a4b13ec73f33da1ebb1368f55335d8b9d2cca8190af",
       "size": 9062
     },
     {
       "path": "datapacks/COBBLEVERSE - No Hunger.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE - No Hunger.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE.-.No.Hunger.zip",
       "sha256": "06de5f7ad7bd863cd6920334372053468a45c831eedb5b7991ac7a732efc6e8d",
       "size": 8925
     },
@@ -1119,55 +1119,55 @@
     },
     {
       "path": "resourcepacks/ATMxMSD RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/ATMxMSD RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/ATMxMSD.RP.zip",
       "sha256": "7fac13ebdd9325c4ebf7966d954a5e5baeeda07419243600eb88a65581ec7962",
       "size": 4810405
     },
     {
       "path": "resourcepacks/Canon PC Wallpapers.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Canon PC Wallpapers.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Canon.PC.Wallpapers.zip",
       "sha256": "c20da2ec31a91c3a961ba0b6fd771a405b7197001af592d5955750568d017d2c",
       "size": 1423022
     },
     {
       "path": "resourcepacks/CavsCobbleMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/CavsCobbleMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/CavsCobbleMons.RP.zip",
       "sha256": "73083a114456524245dadbd741ee77bbde93f597a5b5c17da55b083bc0942c2b",
       "size": 208530
     },
     {
       "path": "resourcepacks/Classic Grass.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Classic Grass.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Classic.Grass.zip",
       "sha256": "4386b800db3f7710c23f5ead9c911c9f265831a02e74c704f7cc29fcd9070880",
       "size": 7418
     },
     {
       "path": "resourcepacks/Cobblemon Interface Modded.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon Interface Modded.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon.Interface.Modded.zip",
       "sha256": "3175cde27f4528eb7c2dc6a53b9952d937e0d1ead2b2f0fdbf1809075e9eb7eb",
       "size": 1053517
     },
     {
       "path": "resourcepacks/Cobblemon Interface Modded.zip.rpo",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon Interface Modded.zip.rpo",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon.Interface.Modded.zip.rpo",
       "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
       "size": 2
     },
     {
       "path": "resourcepacks/Cobblemon Interface.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon Interface.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon.Interface.zip",
       "sha256": "eb40bd047c2e1443c43731e4d1ef1b9d7d0624476336f540b52a3e8fcb9eb315",
       "size": 14108266
     },
     {
       "path": "resourcepacks/Cobblemon Interface.zip.rpo",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon Interface.zip.rpo",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Cobblemon.Interface.zip.rpo",
       "sha256": "cd23a448bda028590c96b9b2b7ecfb4f0456d6aad02b934283ffe47d4d88046f",
       "size": 75
     },
     {
       "path": "resourcepacks/CobbleMotion RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/CobbleMotion RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/CobbleMotion.RP.zip",
       "sha256": "24be4aba6c72a054a2f3d1101d308c85a3603cd8a10d00e220a83b44c51d5575",
       "size": 1475142
     },
@@ -1179,19 +1179,19 @@
     },
     {
       "path": "resourcepacks/COBBLEVERSE RCTmod RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE RCTmod RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE.RCTmod.RP.zip",
       "sha256": "2cec17def69ce520b07fab67eea8c51a94a410a981d50ca4673e463453530e7b",
       "size": 5214902
     },
     {
       "path": "resourcepacks/COBBLEVERSE RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE.RP.zip",
       "sha256": "7b131e45e490710492c586e12f4e25811eb8c40b4798a8833242b0c5316d9ad8",
       "size": 2012790
     },
     {
       "path": "resourcepacks/COBBLEVERSE Soundtrack.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE Soundtrack.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/COBBLEVERSE.Soundtrack.zip",
       "sha256": "d6f8f26668d440792b0b2f54931052f98c7a2dc6967202a1c2b0fe80da5bf46e",
       "size": 155271075
     },
@@ -1203,61 +1203,61 @@
     },
     {
       "path": "resourcepacks/Comforts Modernized.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Comforts Modernized.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Comforts.Modernized.zip",
       "sha256": "b3050d84c0be41dae853e550c07acb1f768880c41472b44d701c03e9b1bc4734",
       "size": 72956
     },
     {
       "path": "resourcepacks/E19 Cobblemon Minimap Icons.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/E19 Cobblemon Minimap Icons.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/E19.Cobblemon.Minimap.Icons.zip",
       "sha256": "d197e0269ed652ddfccdb6f06fc5f4a8929d37a41c3dae886ea70f2b9d45cd52",
       "size": 10645192
     },
     {
       "path": "resourcepacks/EeveelutionsReimagined RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/EeveelutionsReimagined RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/EeveelutionsReimagined.RP.zip",
       "sha256": "0280c5f64b617705ed4d49a915f1106babcd985932e70b5f0c988cc371da62bc",
       "size": 315069
     },
     {
       "path": "resourcepacks/Emissive Cobblemon Ores.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Emissive Cobblemon Ores.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Emissive.Cobblemon.Ores.zip",
       "sha256": "1dfdfb226712ef47e28917642711972837af5c5e706e7ca6be0c8298a5b0bcd4",
       "size": 803304
     },
     {
       "path": "resourcepacks/Fresh Animations.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh Animations.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh.Animations.zip",
       "sha256": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
       "size": 850941
     },
     {
       "path": "resourcepacks/Fresh Icons.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh Icons.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh.Icons.zip",
       "sha256": "6a77950346e51262adfa266a7d52acb0b35798528f4ccf73f518d1c69fc729d8",
       "size": 852471
     },
     {
       "path": "resourcepacks/Fresh Moves.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh Moves.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Fresh.Moves.zip",
       "sha256": "c433f3d831e86faa956836bf327ca00151bd813d1a8ab36aa064d518a58790f7",
       "size": 321871
     },
     {
       "path": "resourcepacks/FullyHisuianStarters RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/FullyHisuianStarters RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/FullyHisuianStarters.RP.zip",
       "sha256": "a12cbdd26881621404bce13b7ce022aa18872067bdfefaa80d8d1c22bd6fc4b0",
       "size": 202557
     },
     {
       "path": "resourcepacks/GlitchDex RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/GlitchDex RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/GlitchDex.RP.zip",
       "sha256": "45141851744fb63075f58bcfd8671e9f53d36bcc2c8300b56686b7e7cfd133cf",
       "size": 196701
     },
     {
       "path": "resourcepacks/HydroReanimodel RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/HydroReanimodel RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/HydroReanimodel.RP.zip",
       "sha256": "ca23de73a73f6b683976d9486afcf0ab6a4dc9b2d04bc27456978cc147967d55",
       "size": 1221200
     },
@@ -1269,55 +1269,55 @@
     },
     {
       "path": "resourcepacks/LackingMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/LackingMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/LackingMons.RP.zip",
       "sha256": "6e7a9a07464b01c4f748e38dfe735e09ee4874cc82898e09af8b1d8397dac1a9",
       "size": 51067
     },
     {
       "path": "resourcepacks/Low Fire.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Low Fire.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Low.Fire.zip",
       "sha256": "fd19a6e94de111070e92a908b4215b79fd73ba2003bb5f3f734ac944a5a4a9d9",
       "size": 41745
     },
     {
       "path": "resourcepacks/MelloMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MelloMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MelloMons.RP.zip",
       "sha256": "e586ee25a3c029048ced4343f0b0f3e1854453bad58259bf50cbcb064f9f6ab6",
       "size": 31681
     },
     {
       "path": "resourcepacks/MissingMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MissingMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MissingMons.RP.zip",
       "sha256": "93521742a908024be27a310c41bd99a46f7aacaf9c3278e37a4ee9ff533bc6e7",
       "size": 233372
     },
     {
       "path": "resourcepacks/MundialMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MundialMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MundialMons.RP.zip",
       "sha256": "53593c95fd73a7261b429bbb391b181c17053024a752cb1590137c296f04bd03",
       "size": 1041048
     },
     {
       "path": "resourcepacks/MysticMons RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MysticMons RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/MysticMons.RP.zip",
       "sha256": "647f1da1906e672365785994ee54b35513b9b7396c07ad860d52a518dcf31bea",
       "size": 72612
     },
     {
       "path": "resourcepacks/OJsAnimations RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/OJsAnimations RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/OJsAnimations.RP.zip",
       "sha256": "0772eab3fb332cb62b052a1f84451d562bde847ddd87a7a3ca874d2ef36a2512",
       "size": 88853
     },
     {
       "path": "resourcepacks/Original Pokemon Battle Music.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Original Pokemon Battle Music.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Original.Pokemon.Battle.Music.zip",
       "sha256": "73dbf078974cd81e5356f98d0b57b5b88c1dfed9aebbbddbfbcf8a3bc3600bb8",
       "size": 93138424
     },
     {
       "path": "resourcepacks/PlanetaCobblemon RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/PlanetaCobblemon RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/PlanetaCobblemon.RP.zip",
       "sha256": "139d3060983eead8e91a166d97fcc690b39f8ae5480edc20282b401aeccd0f55",
       "size": 138557
     },
@@ -1329,7 +1329,7 @@
     },
     {
       "path": "resourcepacks/Pokemans RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Pokemans RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/Pokemans.RP.zip",
       "sha256": "d0c0268051da4ac0c2a47af803e179ec221e222dd680f4a041e97c2dac5d411b",
       "size": 562340
     },
@@ -1347,79 +1347,79 @@
     },
     {
       "path": "resourcepacks/TDmon RP.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/TDmon RP.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/TDmon.RP.zip",
       "sha256": "910e64ffb24126578d4a55ce5f015cc761912368f7c260b091ca4e07884a1e57",
       "size": 227765
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [CavsCobbleMons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.CavsCobbleMons.-.Credits.Only.zip",
       "sha256": "3bd0353ee40b50d14b2f38e7adf295bff87e6e1becad958db61b650e6af15b36",
       "size": 427986
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [E19 Minimap Icons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.E19.Minimap.Icons.-.Credits.Only.zip",
       "sha256": "8732ecb1ee0b8cceda4ad973ffcf53e0c6689f503652320107d2569c0cd7f9ba",
       "size": 19398814
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [GlitchDex - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [GlitchDex - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.GlitchDex.-.Credits.Only.zip",
       "sha256": "f7dc00ccc2015b70ec07d256f790c241f95b62072f672808a029417815b4aab9",
       "size": 322813
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [Hydro Reanimodel - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.Hydro.Reanimodel.-.Credits.Only.zip",
       "sha256": "98e7a31609261a029e27de51a3927085b3a79519247c5703c7c6b3d7e2393a3f",
       "size": 2759214
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [LackingMons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [LackingMons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.LackingMons.-.Credits.Only.zip",
       "sha256": "5aedbb9148dd35363ba738ac137811466aaa1f0d5cabfbd9e0e333cf3cd2b91c",
       "size": 5998516
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [MissingMons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.MissingMons.-.Credits.Only.zip",
       "sha256": "f101ec795ce2739e705e4aa8f00cde47ccdea103135d12425177afff27230db3",
       "size": 1271067
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [MundialMons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.MundialMons.-.Credits.Only.zip",
       "sha256": "4b6780b1a794dffc52367709dbde51d0e9e96ff399cac37d3e75f5f153a630a0",
       "size": 1535880
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [MysticMons - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [MysticMons - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.MysticMons.-.Credits.Only.zip",
       "sha256": "9e3749f431fbffa6a0fc95d878a166aec15b9aa9066ce88de2419ec9c8232102",
       "size": 1268389
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [PlanetaCobblemon - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.PlanetaCobblemon.-.Credits.Only.zip",
       "sha256": "99150e132fc74d78d1e6f58f9593eb677933155e9b56230e7728fcb355d912b1",
       "size": 317141
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [Pokemans - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.Pokemans.-.Credits.Only.zip",
       "sha256": "af241edd5e6e5eb6eef2a3adf14eedb37482a79cbe5666169e44b31870e5e43f",
       "size": 3826705
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [TDmon - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [TDmon - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.TDmon.-.Credits.Only.zip",
       "sha256": "f27d6f288ed40ef1cde60901554fc0b952c0d6854940714a790a79f66c0cfcfd",
       "size": 458809
     },
     {
       "path": "resourcepacks/z DO NOT ENABLE z [Terralith - Credits Only].zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z DO NOT ENABLE z [Terralith - Credits Only].zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/z.DO.NOT.ENABLE.z.Terralith.-.Credits.Only.zip",
       "sha256": "d0f5b0f88152d494cb51c6c06f2b5e52617df9860b2f383d00c85338d81ab164",
       "size": 3112105
     },
@@ -3753,19 +3753,19 @@
     },
     {
       "path": "shaderpacks/COBBLEVERSE - Shaders (High Quality).txt",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE - Shaders (High Quality).txt",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE.-.Shaders.High.Quality.txt",
       "sha256": "258a0956173ee129835483f3570ca5ad8af4270d0f5434580a948e9a2b1e1a58",
       "size": 1724
     },
     {
       "path": "shaderpacks/COBBLEVERSE - Shaders.txt",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE - Shaders.txt",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE.-.Shaders.txt",
       "sha256": "01aa3d1b9edbba03b4531176d76d03a77c20c5b52e535c573f8fc36d7516b57f",
       "size": 1701
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.txt",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--ComplementaryUnbound_r5.7.1.%2B.EuphoriaPatches_1.8.6.txt",
       "sha256": "37d7651bdfd8408b7927a76b0d505b6105c69b0852d26699a9bad255f37a667d",
       "size": 1590
     },
@@ -3789,19 +3789,19 @@
     },
     {
       "path": "shaderpacks/COBBLEVERSE - Shaders.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE - Shaders.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE.-.Shaders.zip",
       "sha256": "35e3196923518113df0404bb484b566b3f05e28a5518a6bb5495b1c451955f1c",
       "size": 1525941
     },
     {
       "path": "shaderpacks/COBBLEVERSE - Shaders (High Quality).zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE - Shaders (High Quality).zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--COBBLEVERSE.-.Shaders.High.Quality.zip",
       "sha256": "b2dc76096308d1134c5a32a4f29733479c99585f0d007c300dcd148c7901088d",
       "size": 1525941
     },
     {
       "path": "shaderpacks/ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.zip",
-      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6.zip",
+      "url": "https://github.com/DropsIZI/cobbleversemmo-modpack/releases/download/v1.5-normal/shaderpacks--ComplementaryUnbound_r5.7.1.%2B.EuphoriaPatches_1.8.6.zip",
       "sha256": "74ed2b2bbe97116bb99ea0a60e0eaa685f46c31ecff641d8b4c1ba6043d44dab",
       "size": 1880446
     }
