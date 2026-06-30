@@ -1,0 +1,12 @@
+{
+  "name": "CobbleverseMMO — extra del equipo (normal)",
+  "file_count": 1,
+  "files": [
+    {
+      "path": "mods/slotmachine-1.1.13.jar",
+      "url": "https://raw.githubusercontent.com/DropsIZI/cobbleversemmo-modpack/main/extra/ambos/mods/slotmachine-1.1.13.jar",
+      "sha256": "c6211e657009745221927a54b1757e3ed4b7adb5ba61ac538d24105e834791a3",
+      "size": 817198
+    }
+  ]
+}
