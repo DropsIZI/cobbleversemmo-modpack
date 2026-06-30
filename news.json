@@ -1,0 +1,39 @@
+{
+  "news": [
+    {
+      "tag": "EVENTO",
+      "date": "30 jun 2026",
+      "title": "Torneo de verano — ¡inscripciones abiertas!",
+      "text": "Compite en el primer torneo PvP de la temporada. Premios en PokéCoins, monturas legendarias y títulos exclusivos para el Top 8.",
+      "body": [
+        "Vuelve la competición más esperada del servidor. Inscríbete desde el canal #torneo de nuestro Discord antes del 20 de julio.",
+        "El formato es de dobles con reglas adaptadas. Cualquier entrenador de nivel 50 o superior puede participar de forma gratuita.",
+        "El Top 8 recibirá títulos cosméticos exclusivos, una montura legendaria animada y 10.000 PokéCoins repartidas según la clasificación final."
+      ],
+      "image": "https://raw.githubusercontent.com/DropsIZI/cobbleversemmo-modpack/main/news/images/ejemplo-evento.png"
+    },
+    {
+      "tag": "POKÉMON",
+      "date": "28 jun 2026",
+      "title": "Nuevos Pokémon añadidos al servidor",
+      "text": "Hemos agregado nuevas especies salvajes con sus formas regionales. Explora los biomas para encontrarlas.",
+      "body": [
+        "Esta actualización añade nuevas especies capturables repartidas por los distintos biomas del mundo.",
+        "Incluye formas regionales nunca vistas en el servidor y algún encuentro legendario de temporada.",
+        "Actualiza el modpack desde el launcher (botón JUGAR) para descargar los nuevos datapacks y resource packs automáticamente."
+      ],
+      "image": ""
+    },
+    {
+      "tag": "PARCHE",
+      "date": "25 jun 2026",
+      "title": "Actualización de estabilidad",
+      "text": "Corrección de errores, mejoras de rendimiento y ajustes de balance. Se aplica automáticamente al iniciar el launcher.",
+      "body": [
+        "Hemos corregido varios errores de sincronización y mejorado el rendimiento general del servidor.",
+        "Rebalanceadas algunas tasas de captura. Consulta las notas completas en nuestro Discord."
+      ],
+      "image": ""
+    }
+  ]
+}
