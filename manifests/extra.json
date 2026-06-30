@@ -1,5 +1,12 @@
 {
   "name": "CobbleverseMMO — contenido del equipo (extra)",
-  "file_count": 0,
-  "files": []
+  "file_count": 1,
+  "files": [
+    {
+      "path": "resourcepacks/PRUEBA-equipo.zip",
+      "url": "https://raw.githubusercontent.com/DropsIZI/cobbleversemmo-modpack/main/extra/resourcepacks/PRUEBA-equipo.zip",
+      "sha256": "f17d7dcc347006c396cb342ab435af4c7749a3ca97783eaf065f45736eb4f649",
+      "size": 203
+    }
+  ]
 }
