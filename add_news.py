@@ -109,11 +109,27 @@ def main():
     print("\n" + "=" * 58)
     print("  ✓ Noticia añadida a news.json")
     print("=" * 58)
-    print("\n  Ahora súbela a GitHub:")
-    print("    git add news.json news/images")
-    print(f'    git commit -m "Noticia: {title}"')
-    print("    git push")
-    print("\n  El launcher la mostrará en cuanto hagas push.\n")
+
+    print("\n  ¿Subir a GitHub ahora? (s = sí / n = lo subo yo luego)")
+    if preguntar("  > ", obligatorio=False).strip().lower() in ("s", "si", "sí", "y", "yes"):
+        import subprocess
+        here = NEWS_FILE.parent
+        try:
+            subprocess.run(["git", "add", "news.json", "news/images"], cwd=here, check=True)
+            subprocess.run(["git", "commit", "-m", f"Noticia: {title}"], cwd=here, check=True)
+            subprocess.run(["git", "push"], cwd=here, check=True)
+            print("\n  ✓ ¡Subido! La noticia aparecerá en el launcher al instante.\n")
+        except Exception:
+            print("\n  ⚠ No se pudo subir automáticamente (¿git instalado / con acceso?).")
+            print("    Súbela a mano:")
+            print("      git add news.json news/images")
+            print(f'      git commit -m "Noticia: {title}"')
+            print("      git push\n")
+    else:
+        print("\n  Cuando quieras subirla:")
+        print("    git add news.json news/images")
+        print(f'    git commit -m "Noticia: {title}"')
+        print("    git push\n")
 
 
 if __name__ == "__main__":

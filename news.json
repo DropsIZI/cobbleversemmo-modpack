@@ -1,18 +1,6 @@
 {
   "news": [
     {
-      "tag": "PRUEBA",
-      "date": "30 jun 2026",
-      "title": "✅ Noticia de prueba con imagen",
-      "text": "Si ves esta noticia (y su imagen) en el launcher, el sistema de noticias funciona correctamente. Puedes borrarla cuando quieras.",
-      "body": [
-        "Esta es una noticia de prueba para confirmar que el flujo funciona: editar news.json + subir imagen + git push.",
-        "La imagen sale desde news/images/prueba-evento.png en el repo del modpack.",
-        "Para quitarla, borra este bloque del news.json y haz git push otra vez."
-      ],
-      "image": "https://raw.githubusercontent.com/DropsIZI/cobbleversemmo-modpack/main/news/images/prueba-evento.png"
-    },
-    {
       "tag": "EVENTO",
       "date": "30 jun 2026",
       "title": "Torneo de verano — ¡inscripciones abiertas!",
